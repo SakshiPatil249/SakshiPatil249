@@ -36,7 +36,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [🔒 Face Verification using Siamese Network](#) | Built a deep learning model for verifying faces using triplet loss | PyTorch, CNN, FaceNet |
+| [🔒 Face Verification using Siamese Network](https://github.com/SakshiPatil249/facenet-person-identification) | Built a deep learning model for verifying faces using triplet loss | PyTorch, CNN, FaceNet |
 
 
 ---
